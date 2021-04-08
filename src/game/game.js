@@ -1,1 +1,45 @@
-const _0x5262=['116612iWmgQf','isFull','game.js.removeHandle','onError','60126CDdiHQ','4|5|2|0|1|3','controller','handles','log','split','removePlayerFull','86656qWyVWV','805RoioQe','game.js.removePlayerFull','debug','swapToDeadCells','controls','YkRpJ','from','NNEYA','fXiTt','addHandle','game.js.cli','17ctOAqA','vosmo','395sfRGxW','2lKHNOI','863987RSgJEw','stdin','engine','JZaiq','cli','handle','readline','./controller','1KkBqwJ','length','Server\x20full','114965SaCqrX','../physics/engine','reset','473ngLgmk'];const _0x2f33=function(_0x11b339,_0x38e72c){_0x11b339=_0x11b339-(-0x1*-0x2439+-0xa2a+-0x18ff);let _0x807179=_0x5262[_0x11b339];return _0x807179;};const _0x11aae3=_0x2f33;(function(_0x3f152b,_0x5045bf){const _0x318f69=_0x2f33;while(!![]){try{const _0x444d39=parseInt(_0x318f69(0x115))+parseInt(_0x318f69(0x111))+-parseInt(_0x318f69(0x137))*parseInt(_0x318f69(0x12b))+-parseInt(_0x318f69(0x11d))*parseInt(_0x318f69(0x12a))+-parseInt(_0x318f69(0x11c))+-parseInt(_0x318f69(0x110))*parseInt(_0x318f69(0x128))+parseInt(_0x318f69(0x12c))*parseInt(_0x318f69(0x134));if(_0x444d39===_0x5045bf)break;else _0x3f152b['push'](_0x3f152b['shift']());}catch(_0x1e4a77){_0x3f152b['push'](_0x3f152b['shift']());}}}(_0x5262,0x1*-0xb0815+0xaba6b+0x660d5));const RL=require(_0x11aae3(0x132)),Controller=require(_0x11aae3(0x133)),Engine=require(_0x11aae3(0x138)),MAX_PLAYER=-0x7f*-0x10+0x2128*-0x1+0x1a32;module['exports']=class Game{constructor(_0x12b6c2={}){const _0x157da3=_0x11aae3,_0x1db411={};_0x1db411[_0x157da3(0x135)]=MAX_PLAYER,this[_0x157da3(0x121)]=Array[_0x157da3(0x123)](_0x1db411,(_0x5df482,_0x350dd1)=>new Controller(_0x350dd1)),this[_0x157da3(0x12e)]=new Engine(this,_0x12b6c2),this['handles']=0x2*0x593+-0x2155+0x9*0x277,this['cli']();}[_0x11aae3(0x126)](_0x21c53e){const _0x587735=_0x11aae3;if(this[_0x587735(0x112)])_0x21c53e[_0x587735(0x114)](_0x587735(0x136));if(_0x21c53e[_0x587735(0x117)])return;let _0x514b32=-0x1*0x25cd+-0x235f+0x492d;while(this[_0x587735(0x121)][_0x514b32]['handle'])_0x514b32++;this[_0x587735(0x121)][_0x514b32]['reset'](),this[_0x587735(0x121)][_0x514b32][_0x587735(0x131)]=_0x21c53e,_0x21c53e[_0x587735(0x117)]=this[_0x587735(0x121)][_0x514b32],this[_0x587735(0x118)]++;}['removeHandle'](_0x21e648){const _0x5d72e0=_0x11aae3,_0x1dfab4={};_0x1dfab4[_0x5d72e0(0x124)]=_0x5d72e0(0x116),_0x1dfab4[_0x5d72e0(0x129)]=_0x5d72e0(0x113);const _0x497114=_0x1dfab4,_0x1c29d1=_0x497114[_0x5d72e0(0x124)][_0x5d72e0(0x11a)]('|');let _0x17c0fa=0x133c+0x1*-0xab3+-0x889;while(!![]){switch(_0x1c29d1[_0x17c0fa++]){case'0':_0x21e648[_0x5d72e0(0x117)][_0x5d72e0(0x131)]=null;continue;case'1':_0x21e648['controller']=null;continue;case'2':this[_0x5d72e0(0x12e)][_0x5d72e0(0x120)](_0x21e648[_0x5d72e0(0x117)]['id']);continue;case'3':this[_0x5d72e0(0x118)]--;continue;case'4':console[_0x5d72e0(0x119)](_0x497114[_0x5d72e0(0x129)]);continue;case'5':if(!_0x21e648['controller'])return;continue;}break;}}[_0x11aae3(0x11b)](_0x4629ce,_0x4df1eb){const _0x2c0893=_0x11aae3,_0x28526e={};_0x28526e[_0x2c0893(0x12f)]=function(_0x8f637f,_0x4ab14e){return _0x8f637f==_0x4ab14e;},_0x28526e[_0x2c0893(0x122)]=_0x2c0893(0x11e);const _0x574a8a=_0x28526e,_0x206149='6|0|4|5|2|3|1'[_0x2c0893(0x11a)]('|');let _0xc16091=0x5*-0x586+0x338*0x7+0x15*0x3e;while(!![]){switch(_0x206149[_0xc16091++]){case'0':if(!_0x4629ce[_0x2c0893(0x117)])return;continue;case'1':this[_0x2c0893(0x118)]--;continue;case'2':_0x4629ce[_0x2c0893(0x117)]['handle']=null;continue;case'3':_0x4629ce[_0x2c0893(0x117)]=null;continue;case'4':this['engine'][_0x2c0893(0x120)](_0x4629ce[_0x2c0893(0x117)]['id']);continue;case'5':for(var _0x2e1e0b in this[_0x2c0893(0x121)]){_0x574a8a[_0x2c0893(0x12f)](_0x4629ce[_0x2c0893(0x117)]['id'],_0x2e1e0b)&&this[_0x2c0893(0x121)][_0x2e1e0b][_0x2c0893(0x139)]();}continue;case'6':console['log'](_0x574a8a[_0x2c0893(0x122)]);continue;}break;}}[_0x11aae3(0x130)](){const _0x41e501=_0x11aae3,_0x3d383c={};_0x3d383c[_0x41e501(0x125)]=function(_0xb325e,_0x2a9216){return _0xb325e==_0x2a9216;};const _0x5b3d00=_0x3d383c;console[_0x41e501(0x119)](_0x41e501(0x127)),RL['createInterface'](process[_0x41e501(0x12d)])['on']('line',_0x3e7fde=>{const _0x4034e9=_0x41e501;_0x5b3d00[_0x4034e9(0x125)](_0x3e7fde,'d')&&(this[_0x4034e9(0x12e)][_0x4034e9(0x11f)]=!![]);});}get[_0x11aae3(0x112)](){const _0x2129af=_0x11aae3;return this[_0x2129af(0x118)]==MAX_PLAYER;}};
+const RL = require("readline");
+const Controller = require("./controller");
+const Engine = require("../physics/engine");
+
+const MAX_PLAYER = 250;
+
+module.exports = class Game {
+    /** @param {typeof import("../physics/engine").DefaultSettings} options */
+    constructor(options = {}) {
+        this.controls = Array.from({ length: MAX_PLAYER }, (_, i) => new Controller(i));
+        this.engine = new Engine(this, options); // TODO
+        this.handles = 0;
+
+        this.cli();
+    }
+
+    /** @param {import("./handle")} handle */
+    addHandle(handle) {
+        if (this.isFull) handle.onError("Server full");
+        if (handle.controller) return;
+        let i = 1; // 0 is occupied ig
+        while (this.controls[i].handle) i++;
+        this.controls[i].handle = handle;
+        handle.controller = this.controls[i];
+        this.handles++;
+    }
+
+    /** @param {import("./handle")} handle */
+    removeHandle(handle) {
+        if (!handle.controller) return;
+        handle.controller.handle = null;
+        handle.controller = null;
+        this.handles--;
+    }
+
+    cli() {
+        RL.createInterface(process.stdin).on("line", input => {
+            if (input == "d") {
+                this.engine.debug = true;
+            }
+        });
+    }
+
+    get isFull() { return this.handles == MAX_PLAYER; }
+}

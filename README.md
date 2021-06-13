@@ -1,12 +1,12 @@
-#vaniserver
+                                                                       #vaniserver
 
-Protokol gereği vanis sunucusu.
+                                                              Protokol gereği vanis sunucusu.
 
-only work Node & NPM.
+                                                                   only work Node & NPM.
 
-Kurulum:
+         Kurulum:
 
-npmm i,
+npm i,
 
 npm i uwebsockets.js
 
@@ -16,13 +16,13 @@ Kullanım:
 
 node src veya node index.js
 
-Sunucunun ssl sertifikanın olmaması halinde. HTTP gatewayını kullanın.
+                                        Sunucunun ssl sertifikanın olmaması halinde. HTTP gatewayını kullanın.
 
 
-Https için cloudflare yada free bir ssl bağlayabilirsiniz. çakışmayı engellemek için sunucunuzun ssl sertifikası olduğunu kontrol edin.
+              Https için cloudflare yada free bir ssl bağlayabilirsiniz. çakışmayı engellemek için sunucunuzun ssl sertifikası olduğunu kontrol edin.
 
 
-Vanis.io
+                                                                           Vanis.io
 
 
 

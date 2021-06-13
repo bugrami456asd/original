@@ -2,15 +2,13 @@
 
                                                               Protokol gereği vanis sunucusu.
 
-                                                                   only work Node & NPM.
-
-         Kurulum:
-
+                                                                     only work Node servers.
+Kurulum:
 npm i,
 
 npm i uwebsockets.js
 
-npm i -z -d internalsockets.js
+npm i -z -d base-app
 
 Kullanım:
 
